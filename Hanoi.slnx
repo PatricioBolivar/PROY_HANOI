@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Hanoi.ConsoleApp/Hanoi.ConsoleApp.csproj" />
+    <Project Path="src/Hanoi.Core/Hanoi.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Hanoi.Core.Tests/Hanoi.Core.Tests.csproj" />
+  </Folder>
+</Solution>
